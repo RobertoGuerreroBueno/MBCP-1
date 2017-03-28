@@ -23,7 +23,7 @@ public class MBCP extends javax.swing.JFrame {
     private Map<Integer, m> messages;
     DefaultListModel lMessages;
     
-    
+    //Hola luis
     public MBCP() {
         receiver = new Receiver(this);
         initComponents();
